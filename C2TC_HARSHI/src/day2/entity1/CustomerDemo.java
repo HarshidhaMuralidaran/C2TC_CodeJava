@@ -1,7 +1,7 @@
 package day2.entity1;
 
 public class CustomerDemo {
-	public static void main(Strinf[] args) {
+	public static void main(String[] args) {
 		Customer c1=new Customer();
 		
 		c1.setCid(101);
